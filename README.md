@@ -1,27 +1,19 @@
-# Network Traffic Analysis
+Network-Traffic-Analyse
 
-## Deskripsi
-Repositori ini berisi latihan analisis lalu lintas jaringan menggunakan tcpdump dan Wireshark
-pada lingkungan lab lokal (VM Linux).
+Deskripsion
 
-Project ini dibuat untuk melatih pemahaman:
-- Capture traffic
-- Analisis paket
-- Identifikasi pola komunikasi jaringan dasar
+This repository is capture traffic and analyse how the flow using nmap,tcpdump,wireshark in own enviroment
+and focus on legal scope.
 
-## Tools
+This project show how to analyse the spot of port and stop up escalation of vulnerability.
+
+Tools :
+- nmap
 - tcpdump
 - Wireshark
-- Linux (Debian/Ubuntu)
-- VirtualBox / VM
+- Linux Debian12
+- Local enviroment
 
-## Struktur Folder
-
-## Langkah Singkat
-1. Capture traffic menggunakan tcpdump
-2. Simpan hasil capture ke file .pcap
-3. Analisis file menggunakan Wireshark
-4. Dokumentasikan temuan sederhana
-
-## Catatan
-Project ini bersifat latihan dan akan dikembangkan bertahap.
+Contact :
+- rifqisubhan89@gmail.com
+- +62 82123811711
