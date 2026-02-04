@@ -22,8 +22,8 @@ It focuses on **analysis, observation, and documentation**.
 - Nmap
 - Tcpdump
 - Wireshark
-- Linux (Debian 12)
-- Local lab environment (hotspot / local network)
+- Linux 
+- Local lab environment (local network)
 
 ## Repository Structure
 Network-Traffic-Analysis/
