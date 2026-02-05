@@ -26,27 +26,32 @@ It focuses on **analysis, observation, and documentation**.
 - Local lab environment (local network)
 
 ## Repository Structure
-Network-Traffic-Analysis/
-├── README.md
+network-traffic-analysis/
+├── README.md  <-- BIG PICTURE
 │
 ├── nmap/
-│   ├── scans/
-│   │   ├── nmap_scan.txt
-│   │   └── nmap_scan.png
-│   └── README.md
+│   ├── README.md  <-- Recon overview
+│   ├── target-discovery/
+│   │   ├── README.md
+│   │   └── *.png
+│   └── port-scanning/
+│       ├── README.md
+│       └── *.png
 │
 ├── tcpdump/
-│   ├── captures/
-│   │   └── traffic_capture.pcap
-│   ├── screenshots/
-│   │   └── tcpdump_terminal.png
-│   └── README.md
+│   ├── README.md  <-- Capture methodology
+│   ├── layer2-flow/
+│   │   ├── README.md
+│   │   └── *.png
 │
-├── wireshark/
-│   ├── screenshots/
-│   │   ├── dns_analysis.png
-│   │   └── tcp_handshake.png
-│   └── README.md
+└── wireshark/
+    ├── README.md  <-- Traffic analysis overview
+    ├── normal/
+    │   ├── README.md
+    │   └── *.png
+    └── abnormal/
+        ├── README.md
+        └── *.png
 
 
 ## Contact :
