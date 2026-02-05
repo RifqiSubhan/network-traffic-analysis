@@ -24,13 +24,14 @@ It focuses on **analysis, observation, and documentation**.
 - Wireshark
 - Linux 
 - Local lab environment (local network)
+- Networking
 
 ## Repository Structure
 network-traffic-analysis/
 ├── README.md  <-- BIG PICTURE
 │
 ├── nmap/
-│   ├── README.md  <-- Recon overview
+│   ├── README.md  
 │   ├── target-discovery/
 │   │   ├── README.md
 │   │   └── *.png
@@ -39,13 +40,13 @@ network-traffic-analysis/
 │       └── *.png
 │
 ├── tcpdump/
-│   ├── README.md  <-- Capture methodology
+│   ├── README.md  
 │   ├── layer2-flow/
 │   │   ├── README.md
 │   │   └── *.png
 │
 └── wireshark/
-    ├── README.md  <-- Traffic analysis overview
+    ├── README.md  
     ├── normal/
     │   ├── README.md
     │   └── *.png
