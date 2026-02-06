@@ -28,7 +28,7 @@ It focuses on **analysis, observation, and documentation**.
 
 ## Repository Structure
 network-traffic-analysis/
-├── README.md  <-- BIG PICTURE
+├── README.md  
 │
 ├── nmap/
 │   ├── README.md  
